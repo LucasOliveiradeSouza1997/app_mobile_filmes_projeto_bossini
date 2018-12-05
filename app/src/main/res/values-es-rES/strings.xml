@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NBSPelículas</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="id">ID: %s</string>
+    <string name="name">%s</string>
+    <string name="button_genre">Hacer clic</string>
+    <string name="idMovie">id: %s</string>
+    <string name="nameMovie">%s</string>
+    <string name="button_movie">Detalles</string>
+
+    <string name="invalid_url">Invalid URL</string>
+    <string name="high_temp">Max: %s</string>
+    <string name="low_temp">Min: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="connect_error">No se pudo conectar al servidor</string>
+    <string name="voteAverage">"promedio de votos: "</string>
+    <string name="nameOrigTB">Nombre original</string>
+    <string name="imagemFilmTB">"Imagen de la película "</string>
+    <string name="detailFilmTB">Detalles</string>
+    <string name="voteAverageTb">voto promedio</string>
+    <string name="nameGenTB">Género</string>
+    <string name="buttonGenreTB">acceso al genero</string>
+
+</resources>

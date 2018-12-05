@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NBS映画</string>
+    <string name="action_settings">設定</string>
+    <string name="id">ID: %s</string>
+    <string name="name">%s</string>
+    <string name="button_genre">クリック</string>
+    <string name="idMovie">id: %s</string>
+    <string name="nameMovie">%s</string>
+    <string name="button_movie">詳細</string>
+
+    <string name="invalid_url">Invalid URL</string>
+    <string name="high_temp">最大: %s</string>
+    <string name="low_temp">最小: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="connect_error">サーバーに接続できませんでした</string>
+    <string name="voteAverage">"投票平均: "</string>
+    <string name="nameOrigTB">オリジナル名</string>
+    <string name="imagemFilmTB">映画のイメージ</string>
+    <string name="detailFilmTB">詳細</string>
+    <string name="voteAverageTb">投票平均</string>
+    <string name="nameGenTB">ジャンル</string>
+    <string name="buttonGenreTB">アクセスジャンル</string>
+
+</resources>

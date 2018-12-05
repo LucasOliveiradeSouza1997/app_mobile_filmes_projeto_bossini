@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NBSMovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="id">ID: %s</string>
+    <string name="name">%s</string>
+    <string name="button_genre">Click</string>
+    <string name="idMovie">id: %s</string>
+    <string name="nameMovie">%s</string>
+    <string name="button_movie">Details</string>
+
+    <string name="invalid_url">Invalid URL</string>
+    <string name="high_temp">Max: %s</string>
+    <string name="low_temp">Min: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="connect_error">Could not connect to server</string>
+    <string name="voteAverage">vote average: </string>
+
+    <string name="nameOrigTB">Original Name</string>
+    <string name="imagemFilmTB">Movie image</string>
+    <string name="detailFilmTB">Details</string>
+    <string name="voteAverageTb">Vote Average</string>
+    <string name="nameGenTB">Genre</string>
+    <string name="buttonGenreTB">Access Genres</string>
+
+
+</resources>

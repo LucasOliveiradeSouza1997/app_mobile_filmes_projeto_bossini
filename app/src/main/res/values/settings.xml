@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="false" name="api_key">04416ac7b7b6d9890089a596310f79d9</string>
+    <string translatable="false" name="web_service_url_list_of_genres">https://api.themoviedb.org/3/genre/movie/list?api_key=%s&amp;language=%s</string>
+    <string translatable="false" name="web_service_url_list_of_selected_genres">https://api.themoviedb.org/3/discover/movie?api_key=%s&amp;include_adult=false&amp;include_video=false&amp;with_genres=%s&amp;language=%s&amp;page=%s</string>
+    <string translatable="false" name="web_service_url_movie_selected">https://api.themoviedb.org/3/movie/%s?api_key=%s&amp;language=%s</string>
+    <string translatable="false" name="image">https://image.tmdb.org/t/p/w500</string>
+
+</resources>
